@@ -13,7 +13,7 @@ Satırlar veriler (sample’lar), kolonlar  öznitelikler (feature’lar).
 • Bir adet output layer olsun, tek nöronu olsun ve içinde sigmoid aktivasyon fonksiyonu olsun
 
 Tanh fonksiyonu:
-f (x) = exp(x)−exp(−x)
-exp(x)+exp(−x)
+f (x) = exp(x)−exp(−x)/ (exp(x)+exp(−x))
+
 Sigmoid fonksiyonu:
 f (x) = 1/(1+exp(−x))
