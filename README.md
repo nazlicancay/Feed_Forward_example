@@ -18,6 +18,7 @@ Sigmoid fonksiyonu:
 f (x) = 1/(1+exp(−x))
 
 bu fonkisyon için Seed değerini
-1 olarak set edelim (FeedForward example'da) 
+1 olarak set edelim (FeedForward example1'da) 
+
 
 daha sonra custom bir değeri (okul numaramızı) seed değerine atayalım (FeedForward Example2)
